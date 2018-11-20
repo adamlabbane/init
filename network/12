@@ -1,0 +1,1 @@
+ping slash16.org -c 1 10.51.1.253 &>/dev/null && echo REACHABLE || echo NOT REACHABLE
